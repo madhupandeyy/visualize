@@ -1,6 +1,6 @@
-Imaginify is a REAL Software-as-a-Service app with AI features and a payments & credit system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
+Visualise is a REAL Software-as-a-Service app with AI features and a payments & credit system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
 
-Find the live link here: https://imaginify-ani02.vercel.app/
+Find the live link here: https://visualize-umber.vercel.app/
 
 📢 NOTE: After Signup or Login make sure to refresh the page once if everything doesn't work right
 

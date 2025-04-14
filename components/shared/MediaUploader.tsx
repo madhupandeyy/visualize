@@ -52,13 +52,13 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-    uploadPreset = "ani_imaginify"
+    uploadPreset = "visualizeByMadhu"
     options={{
         multiple: false,
         resourceType: "image"
     }}
     onSuccess={onUploadSuccessHandler}
-    onError = {onUploadErrorHandler}
+    onError={onUploadErrorHandler}
     >
         {({open}) => (
             <div className="flex flex-col gap-4">

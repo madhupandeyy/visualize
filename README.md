@@ -34,7 +34,5 @@ Find the live link here: https://visualize-umber.vercel.app/
 
 👉 Credits Purchase: Securely buy credits via Stripe for uninterrupted use
 
- 
 
-If you liked the project then consider giving it a star 😊⭐
 
